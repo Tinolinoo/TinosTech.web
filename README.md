@@ -42,7 +42,41 @@ Siga os passos abaixo para configurar o projeto localmente:
    ```bash
    git clone https://github.com/seu-usuario/tinos-tech.git
    cd tinos-tech
+Interfasce:
 
 ![image](https://github.com/user-attachments/assets/305d63b7-595b-4f08-814c-03fb7e39b87b)
-![image](https://github.com/user-attachments/assets/49e0dc73-013a-4964-b10f-2fce45dddb8e)
+
+Sobre:
+
+![image](https://github.com/user-attachments/assets/4135d8a1-52fe-46c3-a353-96d3227ac07a)
+
+
+Carrinho(Api frete):
+
+![image](https://github.com/user-attachments/assets/d0e8a4b7-dec6-461a-ab33-d26465a508ad)
+
+Login(Api):
+
+![image](https://github.com/user-attachments/assets/9fc9a1b4-6284-4c74-8e10-62f8fa2aca08)
+
+Tela de detalhes:
+
+![image](https://github.com/user-attachments/assets/67433358-2b7a-4670-8347-6a791f0fcbe9)
+
+Contato(minha Api nn deu certo:( na hora de vizualizar o site ):
+
+![image](https://github.com/user-attachments/assets/0cee8a57-4d20-49f0-a73d-7cfc4ebd16c5)
+
+Ofertas:
+
+![image](https://github.com/user-attachments/assets/544181ca-2306-4c7b-8e95-6499cdc43996)
+
+
+
+
+
+
+
+
+
 
